@@ -17,5 +17,4 @@ public class WriteFileTemplate {
 			System.out.println(e);
 		}
 	}
-
 }
