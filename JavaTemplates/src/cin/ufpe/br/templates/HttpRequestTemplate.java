@@ -43,6 +43,14 @@ public class HttpRequestTemplate {
 		}
 	}
 
+	public void test(String[] args) {
+
+		String url = "https://android-review.googlesource.com/changes/236130/detail";
+		String response = HttpRequestTemplate.excuteHttpRequest(url);
+		System.out.println(response);
+
+	}
+	
 	public static void main(String[] args) {
 
 		String url = "https://android-review.googlesource.com/changes/236130/detail";
