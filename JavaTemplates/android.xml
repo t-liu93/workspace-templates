@@ -1,0 +1,70 @@
+<DATA>
+
+	<ROW>
+		<id>26</id>
+		<hist_id>b088aa37_f04ede95</hist_id>
+		<hist_message>Patch Set 4:
+
+(3 comments)
+
+Don&#39;t foget to add &#39;Done&#39; and reply when you fix comments :)</hist_message>
+		<hist_authorId>1022077</hist_authorId>
+		<hist_createdTime>2015-04-22 15:16:50</hist_createdTime>
+		<hist_patchSetNum>4</hist_patchSetNum>
+		<hist_changeId>4</hist_changeId>
+	</ROW>
+
+	<ROW>
+		<id>28</id>
+		<hist_id>50984e8f_253958a0</hist_id>
+		<hist_message>Patch Set 4:
+
+(2 comments)
+
+Sorry for the omission.</hist_message>
+		<hist_authorId>1068522</hist_authorId>
+		<hist_createdTime>2015-04-22 16:17:55</hist_createdTime>
+		<hist_patchSetNum>4</hist_patchSetNum>
+		<hist_changeId>4</hist_changeId>
+	</ROW>
+
+	<ROW>
+		<id>38</id>
+		<hist_id>50984e8f_a8753f78</hist_id>
+		<hist_message>Patch Set 5:
+
+(1 comment)
+
+I also changed the wording to something I believe is clearer</hist_message>
+		<hist_authorId>1068522</hist_authorId>
+		<hist_createdTime>2015-04-23 11:05:06</hist_createdTime>
+		<hist_patchSetNum>5</hist_patchSetNum>
+		<hist_changeId>4</hist_changeId>
+	</ROW>
+
+	<ROW>
+		<id>44</id>
+		<hist_id>50984e8f_08a54b03</hist_id>
+		<hist_message>Patch Set 9:
+
+(2 comments)
+
+Nice! :-)</hist_message>
+		<hist_authorId>1038443</hist_authorId>
+		<hist_createdTime>2015-04-23 13:50:49</hist_createdTime>
+		<hist_patchSetNum>9</hist_patchSetNum>
+		<hist_changeId>4</hist_changeId>
+	</ROW>
+
+	<ROW>
+		<id>64</id>
+		<hist_id>10089662_b05a7809</hist_id>
+		<hist_message>Patch Set 4: Code-Review+1 Verified+1
+
+Rebased. Now I require build tools &gt;= 21 to avoid dealing with resource name normalization at the merge stage.</hist_message>
+		<hist_authorId>1057413</hist_authorId>
+		<hist_createdTime>2015-04-20 10:53:36</hist_createdTime>
+		<hist_patchSetNum>4</hist_patchSetNum>
+		<hist_changeId>5</hist_changeId>
+	</ROW>
+</DATA>
